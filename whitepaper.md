@@ -1,23 +1,44 @@
 # Protocolo Shiva-esp8266 Blockchain whitepaper 
 
-O Protocolo Shiva-esp8266 Blockchain é um novo protocolo de blockchain que visa revolucionar a forma como a telemetria de estufas é realizada. Inspirado nos modelos de negócios do Arduino e Tuya, o protocolo Shiva-esp8266 combina o poder da blockchain com dispositivos IoT para fornecer uma solução completa e segura para monitorar e controlar as condições de uma estufa.
+## Introdução
 
-## Resumo
+O Protocolo Shiva-esp8266 é um protocolo de blockchain que tem como objetivo fornecer uma solução completa e segura para a integração de dispositivos IoT com a blockchain. Inspirado nos modelos de negócios do Arduino e Tuya, o protocolo Shiva-esp8266 combina o poder da blockchain com dispositivos IoT para fornecer uma solução completa e segura para a criação de dispositivos IoT e envio e recebimento de informações e comandos.
 
-## **Dispositivos IoT**
-O Protocolo Shiva-esp8266 Blockchain utiliza dispositivos IoT para coletar e transmitir dados de telemetria. O protocolo fornece orientações detalhadas sobre como programar o Micro controlador ESP8266 e como realizar autenticação segura para proteger os dados. Além disso, o protocolo também orienta como registrar o dispositivo na AWS IOT, Tuya e Web3, permitindo a integração com outras plataformas de gerenciamento de dispositivos IoT.
+Este whitepaper apresenta o protocolo de integração de dispositivos IoT com a Web3, destacando as tecnologias utilizadas, a arquitetura do protocolo e como implementá-lo.
 
-## **Blockchain**
-O Protocolo Shiva-esp8266 Blockchain utiliza a tecnologia blockchain para garantir a segurança e a integridade dos dados coletados pelos dispositivos IoT. Os dados são criptografados e armazenados de forma descentralizada na blockchain, impedindo a adulteração ou o acesso não autorizado aos dados.
+## Tecnologias Utilizadas
+O protocolo de integração de dispositivos IoT com a Web3 é baseado em várias tecnologias, incluindo:
 
-## **Token Shiva**
-O Protocolo Shiva-esp8266 Blockchain também inclui o Token Shiva, que é usado para incentivar os usuários a contribuir com a rede e manter a integridade dos dados. Os usuários que contribuem com a rede recebem tokens como recompensa, que podem ser usados para acessar recursos adicionais ou trocados por outras criptomoedas em exchanges.
+- Dispositivos IoT (como sensores de temperatura, umidade do ar e umidade do solo)
+- Microcontrolador (como o ESP8266)
+- Linguagem de programação Micropython
+- Protocolo de comunicação MQTT (Message Queuing Telemetry Transport)
+- Biblioteca Web3.py (para integração com a blockchain Ethereum)
 
-## **Modelo de negócio do Arduino**
-O Protocolo Shiva-esp8266 Blockchain segue o modelo de negócio do Arduino, permitindo que os usuários criem seus próprios dispositivos IoT personalizados usando o Micro controlador ESP8266. O protocolo fornece orientações detalhadas sobre como programar o dispositivo e como integrá-lo com a blockchain.
+## Arquitetura do Protocolo
+O protocolo de integração de dispositivos IoT com a Web3 é dividido em três camadas:
 
-## **Modelo de negócio da Tuya**
-O Protocolo Shiva-esp8266 Blockchain também incorpora o modelo de negócio da Tuya, fornecendo uma plataforma fácil de usar para gerenciar dispositivos IoT. Os usuários podem criar dashboards personalizados e alertas de acordo com suas necessidades específicas, tornando a monitoração e controle das condições de uma estufa mais eficiente e eficaz.
+- Camada de Sensores: Esta camada é responsável por coletar os dados dos sensores, como temperatura, umidade do ar e umidade do solo. Os dados são então enviados para o microcontrolador por meio do protocolo MQTT.
+
+- Camada de Microcontrolador: Esta camada é responsável por processar os dados recebidos dos sensores e executar as ações necessárias com base nesses dados. O Micropython é a linguagem de programação utilizada para programar o microcontrolador.
+
+- Camada de Integração Web3: Esta camada é responsável por integrar o dispositivo IoT à blockchain Ethereum por meio da biblioteca Web3.py. Os dados coletados pelos sensores são armazenados em um contrato inteligente na blockchain e podem ser acessados por outros dispositivos conectados à rede.
+
+## Implementação do Protocolo
+A implementação do protocolo de integração de dispositivos IoT com a Web3 envolve as seguintes etapas:
+
+- 1 - Criação de um dispositivo IoT com o microcontrolador ESP8266
+- 2 - Programação do microcontrolador em Micropython para processar os dados recebidos dos sensores
+- 3 - Integração do dispositivo IoT com a blockchain Ethereum usando a biblioteca Web3.py
+
+
+## Casos de Uso
+O protocolo de integração de dispositivos IoT com a Web3 pode ser aplicado em diversos casos de uso, como:
+
+- Monitoramento de condições ambientais (temperatura, umidade do ar, umidade do solo)
+- Controle de dispositivos de iluminação
+- Controle de dispositivos de segurança (câmeras de vigilância, alarmes)
+- Automação residencial
 
 ## 1 - [IOT] Construindo, Conectando, Enviando Dados, Recebendo Dados, Executando ações.
 
