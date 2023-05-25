@@ -1,53 +1,44 @@
-# Shiva-esp8266
-Projeto [TCC Gestão Agronegócio] - Monitoração (temperatura, umidade, umidade de solo) de uma estufa utilizando IOT, AWS, Web3. Interfaces [WEB, Mobile]
+# 🚀 Shiva-esp8266 DAO
 
-## DAO de Propósito Específico
-Uma DAO de propósito específico é criada com um objetivo claro e definido desde o início. Ela é projetada para atender às necessidades específicas de um projeto, comunidade ou grupo de interesse, e é geralmente limitada a um escopo específico de atividades. Uma DAO de propósito específico pode ser criada para uma variedade de finalidades, como gerenciar um fundo de investimento, gerenciar um projeto de desenvolvimento de software ou apoiar uma causa social específica.
+## 👋 Bem-vindo à Shiva-esp8266 DAO
 
-Ele é um projeto IOT open source, inspirado no modelo de negócio do Arduino, porem  voltado a telemetria de estufas (temperatura, umidade do ar, umidade do solo).
+Somos uma Organização Autônoma Descentralizada (DAO) dedicada a criar um middleware para tecnologias IoT e Web3. Nosso objetivo é trazer padronização para o microcontrolador Node MCU esp8266, comunicação com Web3, hospedagem, segurança e interfaces.
 
-Esse projeto possui alguns pilares
+## 🌐 Nosso Ecossistema de Soluções
 
-## IOT 
+* **Bibliotecas / Manuais de usuário / Tutoriais / Padrões de Segurança**: Fornecemos todas as ferramentas e orientações necessárias para você criar seu próprio projeto IoT com Web3. 
+* **Smart Contracts**: Oferecemos contratos inteligentes prontos para você conectar seu dispositivo IoT à rede blockchain.
+* **Gestão de Dispositivos**: Nossa plataforma torna fácil adicionar ou remover dispositivos da sua rede.
+* **Interface Web e Mobile**: Fornecemos interfaces amigáveis para gerenciar e monitorar seus dispositivos IoT. Confira nossa [demo](http://govindasystems.com/shiva-esp8266).
 
-* protótipo de construção do projeto.
-* como programar no Micro controlador ESP8266
-* como realizar um autenticação segura.
-* como registrar o dispositivo na AWS IOT
-* como registrar o dispositivo na Tuya (https://www.tuya.com/)
-* como registrar o dispositivo na Web3
+## 💡 Nossos Valores
 
-## Web3
+Acreditamos na liberdade de informação e transparência. Shiva-esp8266 é um projeto de código aberto, o que significa que você tem total liberdade para copiar nosso código e criar sua própria rede.
 
-Esse protocolo em Web3 tem como objetivo registrar dispositivos IOT e gerencia-los de forma fácil e rápida.
+## 📢 Participe da Comunidade
 
-* como registrar um dispositivo.
-* como gerenciar seu dispositivo.
-* como criar dashboards personalizados.
-* como criar alertas personalizados.
+Junte-se a nós no Twitter [@shiva-esp8266-DAO](https://twitter.com/shiva-esp8266-DAO) e faça parte da nossa comunidade. 
 
-Esse projeto tem como objetivo 
+## 💎 Tokens
 
+Nós temos dois tipos de tokens:
 
-## Networks Publicas blockchain para integração com IOT
+* **Governança**: Os detentores desses tokens têm poder de voto na DAO e participam nos lucros referentes às taxas da rede. [Saiba mais](#)
+* **Shiva_coiN**: Por padrão, os usuários da Shiva-esp8266 DAO podem registrar até 5 dispositivos gratuitamente. Para cada dispositivo adicional, o usuário precisará de mais 1 Shiva_coiN. [Saiba mais](#)
 
-### Ethereum: 
+## 💰 Monetização
 
-Ethereum é uma das redes blockchain mais populares e é usada para implementar contratos inteligentes. É conhecida por sua flexibilidade e permite a criação de tokens personalizados e contratos inteligentes complexos. Isso faz dela uma opção popular para a integração de dispositivos IOT.
+Shiva-esp8266 é mais do que um projeto de código aberto para dispositivos IoT com a Web3. Somos uma comunidade e um protocolo de contrato inteligente. Junte-se a nós e faça parte desta revolução.
 
-### IOTA: 
+## 🚀 Começando com Shiva-esp8266
 
-IOTA é uma rede blockchain projetada especificamente para dispositivos IOT. Ele usa uma arquitetura de DAG (Directed Acyclic Graph), em vez de um blockchain tradicional, o que torna a rede mais escalável e eficiente para dispositivos IOT.
+Para utilizar as nossas soluções, você pode seguir esses passos:
 
-### EOS: 
+1. Baixe um exemplo de código para carregar no seu Microcontrolador. [Veja mais](#)
+2. Como registrar o meu dispositivo na minha carteira Metamask. [Veja mais](#)
+3. Conecte os sensores no Microcontrolador e envie as informações para a Web3. [Veja mais](#)
+4. Acesse a interface Web e veja em tempo real as informações enviadas pelos Microcontroladores registrados.
 
-EOS é uma rede blockchain de alta performance que usa um modelo de governança delegado. Ele oferece tempos de transação rápidos e baixas taxas de transação, o que o torna uma opção popular para a integração de dispositivos IOT.
+## 🔒 Segurança e Anonimato
 
-### Hyperledger Fabric: 
-
-Hyperledger Fabric é uma plataforma blockchain de código aberto desenvolvida pela Linux Foundation. É projetada para aplicativos empresariais e oferece recursos avançados de governança, privacidade e segurança. É uma opção popular para a integração de dispositivos IOT em ambientes corporativos.
-
-### NEM: 
-
-NEM é uma rede blockchain de código aberto que usa um algoritmo de consenso baseado em prova de importância. Ele oferece uma plataforma fácil de usar para a criação de tokens personalizados e contratos inteligentes. É frequentemente usado para integrar dispositivos IOT em aplicativos de IoT de nível empresarial.
-
+Na Shiva-esp8266, levamos a segurança e o anonimato muito a sério. Nosso protocolo foi projetClaro, aqui está a versão atualizada do texto em Markdown com emojis, um tom mais informal, um exemplo básico de utilização das soluções e um tópico sobre segurança e garantia de anonimato:
