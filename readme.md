@@ -1,26 +1,44 @@
-# IOT Artigos
+# 🚀 Shiva-esp8266 DAO
 
-## Índice
+## 👋 Bem-vindo à Shiva-esp8266 DAO
 
-- IOT - O que são? Onde vivem? Do que se alimentam?
+Somos uma Organização Autônoma Descentralizada (DAO) dedicada a criar um middleware para tecnologias IoT e Web3. Nosso objetivo é trazer padronização para o microcontrolador Node MCU esp8266, comunicação com Web3, hospedagem, segurança e interfaces.
 
-Objetivo: Dar uma introdução ao leitor sobre o que é IOT, o tamanho do mercado, pra que server. Explicar de forma pratica como implementar um projeto de jardim inteligente por exemplo.
+## 🌐 Nosso Ecossistema de Soluções
 
-- Como criar seu próprio dispositivo de IOT
+* **Bibliotecas / Manuais de usuário / Tutoriais / Padrões de Segurança**: Fornecemos todas as ferramentas e orientações necessárias para você criar seu próprio projeto IoT com Web3. 
+* **Smart Contracts**: Oferecemos contratos inteligentes prontos para você conectar seu dispositivo IoT à rede blockchain.
+* **Gestão de Dispositivos**: Nossa plataforma torna fácil adicionar ou remover dispositivos da sua rede.
+* **Interface Web e Mobile**: Fornecemos interfaces amigáveis para gerenciar e monitorar seus dispositivos IoT. Confira nossa [demo](http://govindasystems.com/shiva-esp8266).
 
-Objetivo: Relatar um problema que geralmente iremos encontrar em um projeto de IOT e dar alternativas para solução do problema. Uma delas seria a pessoa desenvolver o seu próprio componente.
+## 💡 Nossos Valores
 
-- Será mesmo que devo criar o meu componente ao comprar um já pronto para desenvolver o meu projeto
+Acreditamos na liberdade de informação e transparência. Shiva-esp8266 é um projeto de código aberto, o que significa que você tem total liberdade para copiar nosso código e criar sua própria rede.
 
-Objetivo: Nesse artigo irei dar clareza a pessoa que está desenvolvendo o seu projeto de IOT para ender a real necessidade de comprar VS criar seu proprio componente de IOT.
+## 📢 Participe da Comunidade
 
-- Hospedagem, como maximizar sua produtividade e minimizar seu custo de desenvolvimento.
+Junte-se a nós no Twitter [@shiva-esp8266-DAO](https://twitter.com/shiva-esp8266-DAO) e faça parte da nossa comunidade. 
 
-Objetivo: Passar uma visão rasa sobre as plataformas que podemos hospedar seus projetos.
-Irei abordar sobre a lider de mercado em dispositivos IOT, Tuya IOT Plataform.
+## 💎 Tokens
 
-- Tire ideias do papel, crie seu prototipo, mãos a massa
+Nós temos dois tipos de tokens:
 
-Objetivo: Artigo motivacional, para os aspirantes na tecnologia e inspitador, afim do leitor deixar seu medo de lado e dar um primeiro passo.
-Porem não apenas com o tema em questão IOT mas com o Mar de conhecimentos novos anciosos para serem descobertos.
+* **Governança**: Os detentores desses tokens têm poder de voto na DAO e participam nos lucros referentes às taxas da rede. [Saiba mais](#)
+* **Shiva_coiN**: Por padrão, os usuários da Shiva-esp8266 DAO podem registrar até 5 dispositivos gratuitamente. Para cada dispositivo adicional, o usuário precisará de mais 1 Shiva_coiN. [Saiba mais](#)
 
+## 💰 Monetização
+
+Shiva-esp8266 é mais do que um projeto de código aberto para dispositivos IoT com a Web3. Somos uma comunidade e um protocolo de contrato inteligente. Junte-se a nós e faça parte desta revolução.
+
+## 🚀 Começando com Shiva-esp8266
+
+Para utilizar as nossas soluções, você pode seguir esses passos:
+
+1. Baixe um exemplo de código para carregar no seu Microcontrolador. [Veja mais](#)
+2. Como registrar o meu dispositivo na minha carteira Metamask. [Veja mais](#)
+3. Conecte os sensores no Microcontrolador e envie as informações para a Web3. [Veja mais](#)
+4. Acesse a interface Web e veja em tempo real as informações enviadas pelos Microcontroladores registrados.
+
+## 🔒 Segurança e Anonimato
+
+Na Shiva-esp8266, levamos a segurança e o anonimato muito a sério. Nosso protocolo foi projetClaro, aqui está a versão atualizada do texto em Markdown com emojis, um tom mais informal, um exemplo básico de utilização das soluções e um tópico sobre segurança e garantia de anonimato:
